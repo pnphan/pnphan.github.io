@@ -1,10 +1,10 @@
 ---
-#permalink: /
+permalink: /work/
 #title: ""
 author_profile: false
-redirect_from:
-  - /work/
-  - /work.html
+#redirect_from:
+#  - /work/
+#  - /work.html
 ---
 
 ## General

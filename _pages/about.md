@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Peter Phan"
+title: "Peter Phan"
 author_profile: true
 redirect_from:
   - /about/
@@ -13,4 +13,4 @@ I'm currently spending this summer in the [Severe Weather and Climate Group](htt
 
 I’m applying to related PhD programs this fall :D
 
-![bc](images/bc.jpg)
+[//]: # ![bc](images/bc.jpg)
