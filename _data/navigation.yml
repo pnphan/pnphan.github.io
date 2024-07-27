@@ -17,5 +17,9 @@ main:
 
   - title: "CV"
     url: /cv.pdf
+
+  - title: "Model Documentation"
+    url: /2.5-Layer-Base-Model/
+    
 #  - title: "Guide"
 #    url: /markdown/
