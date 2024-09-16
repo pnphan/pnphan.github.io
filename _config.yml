@@ -21,7 +21,7 @@ repository               : "pnphan/pnphan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_default.png"
   name             : "Peter Phan"
   pronouns         : # example: "she/her"  
   bio              : "likes doing cool stuff"
