@@ -6,8 +6,18 @@ author_profile: false
 #  - /work/
 #  - /work.html
 ---
+## Growing Vortex Crystals on Giant Planet Poles
 
-## General
+## Giant Planet Polar Vortex Modelling with Deep Learning
+
+## Heat Flow and Thermal Structure of the Lower Atmosphere 
+
+## Neural Networks for Atmospheric Correction of Satellite Ocean Imagery
+
+## Symbolic Regression for Learning Radiative Transfer Equations
+
+
+[//]: # ## General
 
 [//]: #Weather forecasts are determined daily by teams across the world, using some of the world's most powerful supercomputers. Weather and climate phenomena are governed by sets of partial differential equations, whose solutions can't be determined analytically and so [//]: #must be approximated computationally. This is an enormous task, requiring vast amounts of computational resources and expertise in computational fluid dynamics, numerical methods, computer science and engineering, and various areas of mathematics and physics. Yet [//]: #the benefits of accurate weather prediction greatly outweigh the costs, and has many implications in our daily lives: take a moment to think about your life without an accurate weather forecast. Forecasting plays a role in effective emergency management, 
 [//]: #agriculture and energy, and even the trading of financial instruments. Many of the world's biggest companies have their own weather teams, including NVIDIA, Google, and Microsoft, as well as some of the biggest hedge funds; Citadel and Jane Street.
@@ -20,6 +30,6 @@ author_profile: false
 
 [//]: #An untapped area is the use of machine learning to improve the simulation of non-Earth weather and climate phenomena. To this end, I've been working with O'Neill's model of polar vortices on giant planets, specifically the model as it applies to Saturn, and how to [//]: #apply machine learning techniques to reduce computational cost and increase accuracy.
 
-## Technical
+[//]: # ## Technical
 
-TO-DO :D
+[//]: # TO-DO :D
