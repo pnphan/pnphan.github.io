@@ -6,7 +6,7 @@ author_profile: false
 #  - /projects/
 #  - /projects.html
 ---
-## Projects
+# Projects
 
 ## Growing Vortex Crystals on Giant Planet Poles
 
