@@ -1,13 +1,11 @@
 ---
 permalink: /projects/
-#title: ""
+#title: "Projects"
 author_profile: false
 #redirect_from:
 #  - /projects/
 #  - /projects.html
 ---
-# Projects
-
 ## Growing Vortex Crystals on Giant Planet Poles
 
 ## Giant Planet Polar Vortex Modelling with Deep Learning
