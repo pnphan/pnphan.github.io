@@ -1,16 +1,18 @@
 ---
-permalink: /work/
+permalink: /projects/
 #title: ""
 author_profile: false
 #redirect_from:
-#  - /work/
-#  - /work.html
+#  - /projects/
+#  - /projects.html
 ---
+## Projects
+
 ## Growing Vortex Crystals on Giant Planet Poles
 
 ## Giant Planet Polar Vortex Modelling with Deep Learning
 
-## Heat Flow and Thermal Structure of the Lower Atmosphere 
+## Tropopause Prediction with Neural Networks
 
 ## Neural Networks for Atmospheric Correction of Satellite Ocean Imagery
 
