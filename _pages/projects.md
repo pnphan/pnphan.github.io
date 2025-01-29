@@ -6,15 +6,6 @@ author_profile: false
 #  - /projects/
 #  - /projects.html
 ---
-## Growing Vortex Crystals on Giant Planet Poles
-
-## Giant Planet Polar Vortex Modelling with Deep Learning
-
-## Tropopause Prediction with Neural Networks
-
-## Neural Networks for Atmospheric Correction of Satellite Ocean Imagery
-
-## Symbolic Regression for Learning Radiative Transfer Equations
 
 
 [//]: # ## General
