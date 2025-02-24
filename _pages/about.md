@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Incoming PhD student at the [Computational Imaging Group](https://compimaging.dgp.toronto.edu/) of the University of Toronto Department of Computer Science. 
+Incoming PhD student at the University of Toronto Department of Computer Science [Computational Imaging Group](https://compimaging.dgp.toronto.edu/). 
 
 [//]: # ![bc](images/bc.jpg)
