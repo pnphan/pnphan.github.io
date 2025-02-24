@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   #  - title: "Teaching"
   #    url: /teaching/
 
-  - title: "Reading"
+  - title: "Stuff"
     url: /reading/
 
   #  - title: "Portfolio"
@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv.pdf
 
-  - title: "Model Documentation"
-    url: /2.5-Layer-Base-Model/
+  # - title: "Model Documentation"
+  #   url: /2.5-Layer-Base-Model/
     
 #  - title: "Guide"
 #    url: /markdown/
