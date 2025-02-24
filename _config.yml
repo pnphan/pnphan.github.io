@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Peter N. Phan"
+title                    : "Peter Phan"
 title_separator          : "-"
 name                     : &name "Peter Phan"
 description              : &description "personal description"
