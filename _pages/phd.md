@@ -1,9 +1,8 @@
 ---
 permalink: /stuff/phd/
 author_profile: false
+title: 'Peter's Computer Science PhD Application Guide'
 ---
-
-## Peter's Computer Science PhD Application Guide
 
 ## Introduction
 Welcome to this guide on applying for a Computer Science PhD. This document outlines the key components of the application process, important deadlines, and tips to strengthen your application.
