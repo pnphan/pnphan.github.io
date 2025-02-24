@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :D
-
-Work-in-progress
+Incoming PhD student at the [Computational Imaging Group](https://compimaging.dgp.toronto.edu/) of the University of Toronto Department of Computer Science. 
 
 [//]: # ![bc](images/bc.jpg)
