@@ -1,7 +1,7 @@
 ---
 permalink: /stuff/phd/
 author_profile: false
-title: "`Peter's Computer Science PhD Application Guide`"
+title: Peter's Computer Science PhD Application Guide
 ---
 
 ## Introduction
