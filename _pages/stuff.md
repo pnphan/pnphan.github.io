@@ -1,5 +1,5 @@
 ---
-permalink: /stuff
-title: "Stuff"
+permalink: /stuff/
+#title: "Stuff"
 author_profile: false
 ---
