@@ -33,9 +33,6 @@ The uniqueness of a PhD means the admissions criteria also differ from tradition
 
 Professors geneally look for things that signal high motivation, writing ability, intellectual ability, research ability, and matching research interests. Since research is a highly social endeavour, they're also looking for good speaking skills, the ability to formulate your thoughts and ideas in a concise and clear manner, and someone that seems pleasant to work with. They search for these signals in your CV, reference letters, and interviews. 
 
-More:
-- (https://www.reddit.com/r/MachineLearning/comments/1c2x5mx/d_folks_here_have_no_idea_how_competitive_top_phd/)
-
 ## Helpful Resources
 - [Reddit Thread: *Folks here have no idea how competitive top PhD program admissions are these days, wow...*](https://www.reddit.com/r/MachineLearning/comments/1c2x5mx/d_folks_here_have_no_idea_how_competitive_top_phd/)
 - [Reddit Thread: *AMA: PhD Admissions Chair at Brown University CS*](https://www.reddit.com/r/gradadmissions/comments/e76663/ama_phd_admissions_chair_at_brown_university_cs/)
