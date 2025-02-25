@@ -15,7 +15,7 @@ UofT admits 50–75 students from 700–1,000 applicants. MIT has ~150 spots, ov
 
 I have a bachelor's in mathematics and a master's in mechanical/industrial engineering, but my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108 and CSC363). I submitted my applications in December 2024.  
 
-This post summarizes what I learned through the process (and will be updated periodically). My path is an outlier, but many takeaways are broadly applicable.  
+This post summarizes what I learned through the process (and will be updated periodically). It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have already written excellent guides, which are linked down below. 
 
 ## The Application  
 
@@ -49,6 +49,8 @@ Professors geneally look for things that signal high motivation, writing ability
 - [PhD Application Guide by Lucy Lai](https://lucylai.com/blog/gradapps)
 - [CS PhD Statement of Purpose Guide by Eugenie Lai](https://eugenielai.github.io/posts/another-annotated-sop.html)
 - [MIT EECS Statement of Purpose Guide](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+- [Advice on Undergraduate CS Research at UofT](https://alstonlo.github.io/blog/advice-on-cs-research/)
+- [Successful statements of purpose from CS PhD students at various universities](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 - [CSRankings](https://csrankings.org/) 
 - [GradCafe](https://www.thegradcafe.com/)
 
