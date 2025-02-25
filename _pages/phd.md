@@ -11,11 +11,11 @@ For the Fall 2025 application cycle, I applied to two PhD programs in computer s
 - **University of Toronto (Accepted)**  
 - **MIT (Waitlisted)**  
 
-UofT admits 50–75 students from 700–1,000 applicants. MIT has ~150 spots, over 4,000 applicants, and fewer than 100 people on the waitlist.  
+UofT receives 700–1,000 applicants for ~50-75 spots. MIT receives over 4,000 applicants for ~150 spots, with fewer than 100 people on the waitlist.  
 
-I have a bachelor's in mathematics and a master's in mechanical/industrial engineering, but my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108 and CSC363). I submitted my applications in December 2024.  
+I have a bachelor's in mathematics and currently completing a master's in mechanical/industrial engineering. Along the way my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108, CSC363). I submitted my applications in December 2024.  
 
-This post summarizes what I learned through the process (and will be updated periodically). It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have already written excellent guides, which are linked down below. 
+This post summarizes what I learned through the process and will be updated periodically. It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have already written excellent guides, which are linked down below. 
 
 ## The Application  
 
@@ -25,14 +25,14 @@ A typical PhD application includes:
 - Three reference letters  
 - Statement of purpose  
 
-Some schools require a personal statement, but neither of mine did. Deadlines are usually in early December, though late reference letters may still be considered (with no guarantees). Admission does not always involve an interview; committees or individual professors may request one at their discretion.  
-
-Professors from both UofT and MIT reached out for meetings. I scheduled Zoom calls a few days later.  
+Some schools require a personal statement, but neither of mine did. Deadlines are usually in early December, though late reference letters may still be considered (with no guarantees). Admission does not always involve an interview; committees or individual professors may request one at their discretion. Professors from both UofT and MIT reached out for meetings, which happened a few days later.  
 
 - **UofT:** A formal interview where I presented slides on my background, research experience, and interests. The professor also discussed potential projects.  
 - **MIT:** A more informal conversation. The professor explicitly stated it was not an interview but an opportunity to meet face-to-face. I still presented my slides and asked questions. At the end, they said they wanted to advise me and would nominate me for admission, though the final decision rested with the committee.  
 
 Decisions are typically released in February.  
+
+## Criteria
 
 A PhD program is designed to train researchers, much like an MD trains physicians or a JD trains lawyers. Unlike traditional degree programs, coursework is minimal. Instead, PhD students spend 4–5 years conducting original research under a faculty advisor. PhD students receive funding that covers tuition and living expenses. After tuition, stipends amount to roughly **$50K/year (USD) at MIT** and **$40K/year (CAD) at UofT**. Funding comes from various sources, including university funds, department budgets, advisor grants, TA positions, and external scholarships (e.g., NSERC CGS-D, Google DeepMind Fellowship).  
 
@@ -60,4 +60,3 @@ Professors geneally look for things that signal high motivation, writing ability
 coming soon!
 
 ---
-This post is an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. 
