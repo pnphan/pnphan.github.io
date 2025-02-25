@@ -41,6 +41,7 @@ More:
 - [Reddit Thread: *AMA: PhD Admissions Chair at Brown University CS*](https://www.reddit.com/r/gradadmissions/comments/e76663/ama_phd_admissions_chair_at_brown_university_cs/)
 - [Reddit Thread: *AMA Director of Graduate Studies in Computer Science and Engineering at the University of Notre Dame*](https://www.reddit.com/r/gradadmissions/comments/1h4hwlr/i_ama_director_of_graduate_studies_in_computer/)
 - [Reddit Thread: *"I recently learned via @DavidDuvenaud's interview on @TlkngMchns that the de facto bar for admission into machine learning grad school at @UofT is a paper at a top conference like NIPS or ICML."*](https://www.reddit.com/r/MachineLearning/comments/9gln57/r_i_recently_learned_via_davidduvenauds_interview/)
+- [Twitter Thread: *"I've been serving on grad admissions committees at MIT for 5 years - in EECS and Media Lab If you want to get into a PhD at a place like MIT, here's a thread with some advice based on my observations:"*](https://x.com/fadeladib/status/1353020072885940224) [Link 2](https://threadreaderapp.com/thread/1353020072885940224.html)
 - [PhD Application Guide by Lucy Lai](https://lucylai.com/blog/gradapps)
 - [CS PhD Statement of Purpose Guide by Eugenie Lai](https://eugenielai.github.io/posts/another-annotated-sop.html)
 - 
