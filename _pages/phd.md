@@ -31,6 +31,9 @@ PhD programs are meant to produce researchers in the same way that MD programs p
 
 The uniqueness of a PhD means the admissions criteria also differ from traditional degree programs. Your grades are not the most important factor, and unrelated extracurriculars are generally ignored unless sufficiently outstanding e.g., a questionable non-profit/club leadership position may seem impressive to medical school admissions committees, but is useless for PhD admissions. However, a national championship in a popular sport may be looked upon favourably, even if it's completely unrelated to your research topic. Professors geneally look for things that signal high motivation, writing ability, intellectual ability, research ability, and matching research interests. Since research is a highly social endeavour, they're also looking for good speaking skills, the ability to formulate your thoughts and ideas in a concise and clear manner, and someone that seems pleasant to work with. They search for these signals in your CV, reference letters, and interviews. 
 
+More:
+- (https://www.reddit.com/r/MachineLearning/comments/1c2x5mx/d_folks_here_have_no_idea_how_competitive_top_phd/)
+
 
 ## Other Useful Resources
 - [CSRankings](https://csrankings.org/) - Helps identify top research programs.
