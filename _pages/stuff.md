@@ -4,4 +4,4 @@ permalink: /stuff/
 author_profile: false
 ---
 
-[CS PhD Admissions Resources](https://pnphan.github.io/stuff/phd/)
+[CS PhD Application Resources](https://pnphan.github.io/stuff/phd/)
