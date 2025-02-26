@@ -13,7 +13,7 @@ For the Fall 2025 application cycle, I applied to two PhD programs in computer s
 
 UofT receives 700–1,000 applicants for ~50-75 spots. MIT receives over 4,000 applicants for ~150 spots, with fewer than 100 people on the waitlist.  
 
-I have a bachelor's in mathematics and currently completing a master's in mechanical/industrial engineering. Along the way my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108, CSC363). I submitted my applications in December 2024.  
+I have a bachelor's in mathematics and I'm currently completing a master's in mechanical/industrial engineering. Along the way my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108, CSC363). I submitted my applications in December 2024.  
 
 This post summarizes what I learned through the process and will be updated periodically. It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have written more general guides, which are linked down below. 
 
@@ -27,10 +27,10 @@ A typical PhD application includes:
 
 Some schools require a personal statement, but neither of mine did. Deadlines are usually in early December, though late reference letters may still be considered (with no guarantees). Admission does not always involve an interview; committees or individual professors may request one at their discretion. Professors from both UofT and MIT reached out for meetings, which happened a few days later.  
 
-- **UofT:** A formal interview where I presented slides on my background, research experience, and interests. The professor also discussed potential projects.  
-- **MIT:** A more informal conversation. The professor explicitly stated it was not an interview but an opportunity to meet face-to-face. I still presented my slides and asked questions. At the end, they said they wanted to advise me and would nominate me for admission, though the final decision rested with the committee.  
+- **UofT:** A formal interview where I presented slides on my background, research experience, and interests. The professor also discussed potential projects. This meeting was about 1.5 hours.
+- **MIT:** A more informal conversation. The professor explicitly stated it was not an interview but an opportunity to meet face-to-face. I still presented my slides and asked questions. At the end, they said they wanted to advise me and would nominate me for admission, though the final decision rested with the committee. This meeting was about 25 minutes.
 
-Decisions are typically released in February.  
+Both meetings occured in January. Decisions are typically released in February.  
 
 ## Criteria
 
