@@ -15,7 +15,7 @@ UofT receives 700–1,000 applicants for ~50-75 spots. MIT receives over 4,000 a
 
 I have a bachelor's in mathematics and currently completing a master's in mechanical/industrial engineering. Along the way my interests gradually converged on **ML/AI for Science**. Before June 2024, I had no experience in ML and had only taken two CS courses (CSC108, CSC363). I submitted my applications in December 2024.  
 
-This post summarizes what I learned through the process and will be updated periodically. It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have already written more broadly applicable guides, which are linked down below. 
+This post summarizes what I learned through the process and will be updated periodically. It's an amalgamation of my own experiences and observations, which I can't guarantee to be the same for everyone. Other people have written more general guides, which are linked down below. 
 
 ## The Application  
 
