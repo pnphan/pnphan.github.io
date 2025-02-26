@@ -38,7 +38,7 @@ A PhD program is designed to train researchers, much like an MD trains physician
 
 PhD admissions prioritize research potential over traditional academic metrics. Your grades are not the most important factor, and unrelated extracurriculars are generally ignored unless exceptional e.g., a questionable non-profit/club leadership position may seem impressive to medical school admissions committees, but is useless for PhD admissions. At the time of application I had been a (Head) Teaching Assistant for over 1500+ hours and a finalist for UofT’s university-wide TA Award. Despite the common advice that teaching experience is ignored, I was told during my interviews that this worked in my favour. 
 
-Professors geneally look for things that signal high motivation, writing ability, intellectual ability, research ability, and matching research interests. Since research is a highly social endeavour, they're also looking for good speaking skills, the ability to formulate your thoughts and ideas in a clear and concise manner, and a personality they’d enjoy working with. They search for these signals in your CV, reference letters, and interviews. 
+Professors generally look for signals of high motivation, writing ability, intellectual ability, research ability, and matching research interests. Since research is a highly social endeavour, they're also looking for good speaking skills, the ability to formulate your thoughts and ideas in a clear and concise manner, and a personality they’d enjoy working with. They search for these signals in your CV, reference letters, and interviews. 
 
 ## Dispelling Myths 
 
