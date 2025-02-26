@@ -40,7 +40,7 @@ PhD admissions prioritize research potential over traditional academic metrics. 
 
 Professors generally look for signals of high motivation, writing ability, intellectual ability, research ability, and matching research interests. Since research is a highly social endeavour, they're also looking for good speaking skills, the ability to formulate your thoughts and ideas in a clear and concise manner, and a personality they’d enjoy working with. They search for these signals in your CV, reference letters, and interviews. 
 
-## Dispelling Myths 
+## Debunking Myths 
 
 Popular advice suggested I needed publications to be competitive for top CS PhD programs. This is fine advice and is generally true, but not always. Many people don't know that *excellent reference letters can make up for a lack of publications*. This is further corroborated by the following MIT EECS PhD admissions webinars [[1](https://www.youtube.com/watch?v=fTdN_jqR7Z0)] [[2](https://www.youtube.com/watch?v=OeLGNNPZYZs)], in which professors explicitly stated publications weren't necessary and signals of research ability may be found in reference letters. I suspect (but don't know for sure) that this was the case for me: I had no publications, but my interviewers emphasized that my letters were excellent. 
 
