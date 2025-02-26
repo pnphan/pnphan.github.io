@@ -8,7 +8,7 @@ title: CS PhD Application Resources
 
 For the Fall 2025 application cycle, I applied to two PhD programs in computer science:  
 
-- **University of Toronto (Accepted)**  
+- **UofT (Accepted)**  
 - **MIT (Waitlisted)**  
 
 UofT receives 700–1,000 applicants for ~50-75 spots. MIT receives over 4,000 applicants for ~150 spots, with fewer than 100 people on the waitlist.  
