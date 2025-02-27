@@ -1,4 +1,8 @@
-
+---
+permalink: /stuff/courses/
+author_profile: false
+title: Courses I've completed
+---
 
 ## Mathematics 
 - MAT102: Intro Proofs
