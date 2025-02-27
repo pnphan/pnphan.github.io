@@ -62,8 +62,4 @@ None of my letters came from a CS professor. Graduate-level CS research is highl
 - [GradCafe](https://www.thegradcafe.com/)
 
 
-## Coming from a pure mathematics background 
-
-coming soon!
-
 ---
