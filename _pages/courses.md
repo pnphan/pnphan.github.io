@@ -1,18 +1,13 @@
+<div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
 
-<table>
-  <tr>
-    <td>• Item 1</td>
-    <td>• Item 2</td>
-    <td>• Item 3</td>
-  </tr>
-  <tr>
-    <td>• Item 4</td>
-    <td>• Item 5</td>
-    <td>• Item 6</td>
-  </tr>
-  <tr>
-    <td>• Item 7</td>
-    <td>• Item 8</td>
-    <td>• Item 9</td>
-  </tr>
-</table>
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
+- Item 6
+- Item 7
+- Item 8
+- Item 9
+
+</div>
