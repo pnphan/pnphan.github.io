@@ -57,6 +57,7 @@ None of my letters came from a CS professor. Graduate-level CS research is highl
 - [MIT EECS Statement of Purpose Guide](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 - [Advice on Undergraduate CS Research at UofT](https://alstonlo.github.io/blog/advice-on-cs-research/)
 - [Successful statements of purpose from CS PhD students at various universities](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
+- [Myths about Graduate School in Computer Science (in Canada)](https://yongyuanxi.medium.com/myths-about-graduate-school-in-computer-science-in-canada-eca365370415) 
 - [CSRankings](https://csrankings.org/) 
 - [GradCafe](https://www.thegradcafe.com/)
 
