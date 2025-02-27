@@ -24,5 +24,5 @@ So little time, so much to learn...
 - [A First Course in General Relativity](https://www.cambridge.org/highereducation/books/a-first-course-in-general-relativity/933C1A8C84420EF1349B676F0D70A065#overview)
 - [General Relativity](https://press.uchicago.edu/ucp/books/book/chicago/G/bo5952261.html)
 - [Relativistic Fluids and Magneto-fluids](https://www.cambridge.org/core/books/relativistic-fluids-and-magnetofluids/9DE161DF58806E06B4819E250790E314)
-- [Relativistic Hydrodynamics]([https://www.cambridge.org/core/books/relativistic-fluids-and-magnetofluids/9DE161DF58806E06B4819E250790E314](https://global.oup.com/academic/product/relativistic-hydrodynamics-9780198528906?cc=ca&lang=en&))
+- [Relativistic Hydrodynamics](https://academic.oup.com/book/26998)
 
