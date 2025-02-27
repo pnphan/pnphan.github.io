@@ -26,4 +26,5 @@ So little time, so much to learn...
 - [General Relativity](https://press.uchicago.edu/ucp/books/book/chicago/G/bo5952261.html)
 - [Relativistic Fluids and Magneto-fluids](https://www.cambridge.org/core/books/relativistic-fluids-and-magnetofluids/9DE161DF58806E06B4819E250790E314)
 - [Relativistic Hydrodynamics](https://academic.oup.com/book/26998)
+- [An Introduction to Magnetohydrodynamics](https://www.cambridge.org/core/books/an-introduction-to-magnetohydrodynamics/7FBA835C19E375799D921ED81202F91F)
 
