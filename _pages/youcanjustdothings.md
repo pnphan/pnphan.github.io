@@ -20,6 +20,11 @@ For some reason or another, I also knew/assumed,
 
 If I assumed the above two points, then the natural line of reasoning is that if I master mathematics, then I'll have overcome a significant part of the learning curve for most cool fields, thus giving me a ton of different options for achieving the first four points. This was the intuition I had to justify my degree in mathematics, and I was right. 
 
+Since then, my belief in the following postulates has only grown stronger:
+
+- Strong training in pure mathematics will enable you to do *anything*
+- There are very few things that require greater intellectual labour than mathematics
+- Therefore, training your mind to handle the labour of mathematics allows you to more easily handle the labour of other fields similar to how a barbell becomes noticeably easier to lift after some time strength training
 
 
 
