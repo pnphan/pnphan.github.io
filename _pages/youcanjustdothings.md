@@ -13,7 +13,7 @@ There are virtually limitless opportunities for the (strong) math student, but v
 
 For some reason or another, I also knew/assumed,
 
-- Mathematics was the foundation of all science
+- Mathematics is the foundation of all science
 - Mathematics is used everywhere
 - Mathematics is difficult
 - Mathematics makes up a significant chunk of the learning curve of most interesting fields
