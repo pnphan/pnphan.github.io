@@ -26,5 +26,7 @@ Since then, my belief in the following postulates has only grown stronger:
 - There are very few things that require greater intellectual labour than mathematics
 - Therefore, training your mind to handle the labour of mathematics allows you to more easily handle the labour of other fields similar to how a barbell becomes noticeably easier to lift after some time strength training
 
+These are the beliefs I base the rest of this post on. They're not just ego-driven assumptions - they stem from my lived experience of doing a degree in mathematics and succeeding in various other fields, as well as witnessing so many other people with strong mathematical training doing the same. 
+
 
 
