@@ -8,4 +8,3 @@ author_profile: false
 
 [PhD Reading List](https://pnphan.github.io/stuff/reading/)
 
-[Courses I've completed](https://pnphan.github.io/stuff/courses/)
