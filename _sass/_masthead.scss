@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .masthead {
+  font-family: "Lato", sans-serif;
   position: fixed;
   background: white;
   border-bottom: 1px solid $border-color;
@@ -20,7 +21,8 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    // font-family: $sans-serif-narrow;
+    font-family: "Lato", sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
