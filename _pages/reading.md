@@ -4,7 +4,7 @@ author_profile: false
 title: Reading List
 ---
 
-So little time, so much to learn...
+topics i must master
 
 ## Imaging and ML
 - [CSC2529/EE367: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) [Link 2](https://stanford.edu/class/ee367/)
@@ -16,6 +16,7 @@ So little time, so much to learn...
 - [Linear Algebra and Optimization with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
 - [Mathematical Methods for Physicists](https://books.google.ca/books/about/Mathematical_Methods_for_Physicists.html?id=qLFo_Z-PoGIC)
 - [Semi-Riemannian Geometry with Applications to Relativity](https://mathcenter.hust.edu.cn/wj/Master_Books/01_An_Introduction_to_Differentiable_Manifolds_and_Riemannian_Geometry.pdf)
+- [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
 
 ## Physics 
 - [Physics of Light and Optics](https://optics.byu.edu/textbook)
