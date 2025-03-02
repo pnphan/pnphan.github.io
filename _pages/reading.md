@@ -4,7 +4,7 @@ author_profile: false
 title: Reading List
 ---
 
-topics i must master
+books i must master
 
 ## Imaging and ML
 - [CSC2529/EE367: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) [Link 2](https://stanford.edu/class/ee367/)
