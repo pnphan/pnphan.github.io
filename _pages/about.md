@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: false
+title: "Peter Phan"
 redirect_from:
   - /about/
   - /about.html
