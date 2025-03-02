@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Peter Phan"
+mainheading              : "home"
 title_separator          : "-"
 name                     : #&name "Peter Phan"
 description              : &description "personal description"
