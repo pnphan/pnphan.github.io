@@ -5,5 +5,7 @@ author_profile: false
 
 [CS PhD Application Resources](https://pnphan.github.io/stuff/phd/)
 
-[PhD Reading List](https://pnphan.github.io/stuff/reading/)
+[reading list](https://pnphan.github.io/stuff/reading/)
+
+[misc cool stuff](https://pnphan.github.io/stuff/misc/)
 
