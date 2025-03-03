@@ -24,13 +24,13 @@ repository               : "pnphan/pnphan.github.io"
 author:
   # Biographic information
   avatar           : "profile_default.png"
-  name             : "Peter Phan"
+  name             : #"Peter Phan"
   pronouns         : # example: "she/her"  
   bio              : #"likes doing cool stuff"
   location         : #"Toronto, Canada"
   employer         : #"University of Toronto"
   uri              : # URL
-  email            : "tammy.phan@utoronto.ca" 
+  email            : #"tammy.phan@utoronto.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
