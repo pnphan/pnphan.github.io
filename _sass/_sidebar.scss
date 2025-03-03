@@ -91,6 +91,10 @@
     height: auto;
   }
 
+  @media (max-width: 768px) { /* Adjust for mobile */
+    width: 80px; /* Increase size */
+  }
+
   img {
     max-width: 175px;
     border-radius: 50%;
@@ -99,6 +103,9 @@
       padding: 5px;
       border: 1px solid $border-color;
     }
+
+    @media (max-width: 768px) { /* Adjust for mobile */
+      max-width: 120px; /* Increase size */
   }
 }
 
