@@ -1,6 +1,6 @@
 ---
 permalink: /stuff/
-title: "stuff"
+#title: "stuff"
 author_profile: false
 ---
 
