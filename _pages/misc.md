@@ -1,7 +1,7 @@
 ---
 permalink: /stuff/misc/
 author_profile: false
-title: 
+title: "Misc"
 ---
 
 [Levent Alpöge](https://alpo.ge/)
