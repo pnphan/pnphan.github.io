@@ -33,4 +33,38 @@ title: "Misc"
 
 [Pixar pioneer: CS alum Bill Reeves leads in animation innovation](https://web.cs.toronto.edu/news-events/news/pixar-pioneer-cs-alum-bill-reeves-leads-in-animation-innovation)
 
+[Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
+
+[Differential geometry for machine learning](https://web.archive.org/web/20240227222542/https://metacademy.org/roadmaps/rgrosse/dgml)
+
+[Taco Cohen](https://tacocohen.wordpress.com/)
+
+[From math grad school to AI alignment](https://acritch.com/from-math-grad-school-to-ai-alignment/)
+
+[Jason Wei](https://www.jasonwei.net/thoughts)
+
+[The last reliable (available) path into AI](https://www.natolambert.com/writing/path-into-ai)
+
+[Moving to Toronto](https://colinraffel.com/blog/moving-to-toronto.html)
+
+[My Machine Learning Research Jobhunt](https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/)
+
+[Re: PhD with low GPA](https://3dpancakes.typepad.com/ernie/2005/03/re_phd_with_low.html)
+
+[The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+
+[How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html#intro)
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+[Do Grades Matter?](http://graphics.stanford.edu/~kayvonf/misc/do_grades_matter.pdf)
+
+[How I Became A Lithographer](https://www.lithoguru.com/scientist/litho_lite/How_I_Became_a_Lithographer.html)
+
+[Why the Canadian Tech Scene Doesn’t Work](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
+
+
+
+
+
 
