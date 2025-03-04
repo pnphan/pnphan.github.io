@@ -25,7 +25,8 @@ title: "Misc"
 [Too Much Information](https://www.argmin.net/p/too-much-information)
 
 [Simon Willison’s Weblog](https://simonwillison.net/)
-- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+
+[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 
 [Where the Grass Is Greener: Leaving academia to advance biomedical research](https://www.harvardmagazine.com/2025/01/harvard-academia-to-biomedical-research)
 
