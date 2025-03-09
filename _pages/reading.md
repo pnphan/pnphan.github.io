@@ -18,6 +18,7 @@ title: Reading List
 
 ## Physics 
 - [Physics of Light and Optics](https://optics.byu.edu/textbook)
+- [Essentials of Atmospheric and Oceanic Dynamics](https://www.cambridge.org/highereducation/books/essentials-of-atmospheric-and-oceanic-dynamics/8B5AAB9D23DDCC9169B16D15D65C9781#overview)
 - [Atmospheric and Oceanic Fluid Dynamics](https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamics/41379BDDC4257CBE11143C466F6428A4)
 - [Geophysical Fluid Dynamics](https://link.springer.com/book/10.1007/978-1-4612-4650-3)
 - [Fluid Mechanics: Volume 6](https://books.google.ca/books/about/Fluid_Mechanics.html?id=CeBbAwAAQBAJ&redir_esc=y)
