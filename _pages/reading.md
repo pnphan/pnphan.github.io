@@ -1,7 +1,7 @@
 ---
 permalink: /stuff/reading/
 author_profile: false
-title: Reading List
+title: Bookshelf
 ---
 
 ## Imaging and ML
@@ -9,10 +9,13 @@ title: Reading List
 - [CSC2530: Computational Imaging & 3D Sensing](https://www.cs.toronto.edu/~kyros/courses/2530/)
 - [Computational Imaging](https://imagingtext.github.io/)
 - [Deep Learning - Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)
+- [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Mathematics 
 - [Linear Algebra and Optimization with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
 - [Mathematical Methods for Physicists](https://books.google.ca/books/about/Mathematical_Methods_for_Physicists.html?id=qLFo_Z-PoGIC)
+- [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](https://matrixeditions.com/5thUnifiedApproach.html)
 - [Semi-Riemannian Geometry with Applications to Relativity](https://mathcenter.hust.edu.cn/wj/Master_Books/01_An_Introduction_to_Differentiable_Manifolds_and_Riemannian_Geometry.pdf)
 - [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
 
@@ -27,4 +30,9 @@ title: Reading List
 - [Relativistic Fluids and Magneto-fluids](https://www.cambridge.org/core/books/relativistic-fluids-and-magnetofluids/9DE161DF58806E06B4819E250790E314)
 - [Relativistic Hydrodynamics](https://academic.oup.com/book/26998)
 - [Introduction to Magnetohydrodynamics](https://www.cambridge.org/core/books/introduction-to-magnetohydrodynamics/45D3577CF0FF4E21AECA55131BC1A4CB)
+
+## Papers
+- Lecun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.
+
 
