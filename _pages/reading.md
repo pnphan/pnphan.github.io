@@ -6,8 +6,6 @@ title: Bookshelf
 my ever expanding list of things i've learned and wish to learn
 
 ## Books
-- [CSC2529/EE367: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) [Link 2](https://stanford.edu/class/ee367/)
-- [CSC2530: Computational Imaging & 3D Sensing](https://www.cs.toronto.edu/~kyros/courses/2530/)
 - [Computational Imaging](https://imagingtext.github.io/)
 - [Deep Learning - Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)
 - [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
@@ -68,8 +66,10 @@ my ever expanding list of things i've learned and wish to learn
 - [Multiple-Scattering Microphysics Tomography](https://openaccess.thecvf.com/content_cvpr_2017/papers/Levis_Multiple-Scattering_Microphysics_Tomography_CVPR_2017_paper.pdf)
   
 
-## Talks/Slides
+## Talks/Slides/Courses
 - [Machine Learning for Astronomy](https://kiss.caltech.edu/workshops/imaging/presentations/fergus.pdf)
+- [CSC2529/EE367: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) [Link 2](https://stanford.edu/class/ee367/)
+- [CSC2530: Computational Imaging & 3D Sensing](https://www.cs.toronto.edu/~kyros/courses/2530/)
   
 
 
