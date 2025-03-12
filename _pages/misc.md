@@ -64,8 +64,13 @@ title: "Misc"
 
 [Why the Canadian Tech Scene Doesn’t Work](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
 
+[The First Law of Complexodynamics](https://scottaaronson.blog/?p=762)
 
+[Spinning Up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
+[SciML Scientific Machine Learning Showcase](https://sciml.ai/showcase/)
+
+[Machine Learning for Astronomy](https://kiss.caltech.edu/workshops/imaging/presentations/fergus.pdf)
 
 
 
