@@ -12,6 +12,7 @@ my ever expanding list of things i've learned and wish to learn
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
 - [Fundamentals of Computerized Tomography](https://link.springer.com/book/10.1007/978-3-030-26957-9)
+- [Principles of Computerized Tomographic Imaging](https://epubs.siam.org/doi/book/10.1137/1.9780898719277)
 - [Linear Algebra and Optimization with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
 - [Mathematical Methods for Physicists](https://books.google.ca/books/about/Mathematical_Methods_for_Physicists.html?id=qLFo_Z-PoGIC)
 - [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](https://matrixeditions.com/5thUnifiedApproach.html)
