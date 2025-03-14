@@ -3,6 +3,7 @@ permalink: /stuff/misc/
 author_profile: false
 title: "Misc"
 ---
+random stuff i find interesting, many i often go back to
 
 [Levent Alpöge](https://alpo.ge/)
 
@@ -71,6 +72,22 @@ title: "Misc"
 [SciML Scientific Machine Learning Showcase](https://sciml.ai/showcase/)
 
 [Machine Learning for Astronomy](https://kiss.caltech.edu/workshops/imaging/presentations/fergus.pdf)
+
+[Introduction to the Boris Ioffe Festschrift](https://www-users.cse.umn.edu/~shifman/ioffeintro.pdf)
+
+[Memories of Vladimir Arnold](https://www.math.utoronto.ca/khesin/papers/ArnoldSecond.pdf)
+
+[Tribute to Vladimir Arnold](https://www.math.toronto.edu/khesin/papers/ArnoldFirstAMS1203.pdf)
+
+[On teaching mathematics](https://web.archive.org/web/20230308001918/https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+
+[There’s more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+
+[Life at low Reynolds number](https://www.damtp.cam.ac.uk/user/tong/fluids/lowreynolds.pdf)
+
+[Geophysical fluid dynamics: whence, whither and why?](https://royalsocietypublishing.org/doi/10.1098/rspa.2016.0140)
+
+[Landau's Theoretical Minimum, Landau's Seminar, ITEP in the Beginning of the 1950's](https://arxiv.org/abs/hep-ph/0204295)
 
 
 
