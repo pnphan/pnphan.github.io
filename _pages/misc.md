@@ -5,6 +5,8 @@ title: "Misc"
 ---
 random stuff i find interesting, many i often go back to
 
+[Amputating Life Close to Its Base](https://www.monbiot.com/2015/06/03/3769/)
+
 [Levent Alpöge](https://alpo.ge/)
 
 [Tim Gowers Automated Theorem Proving Project](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/)
