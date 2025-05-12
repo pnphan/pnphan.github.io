@@ -93,7 +93,7 @@ random stuff i found interesting/useful
 
 [CS Paper Checklist](https://github.com/yzhao062/cs-paper-checklist)
 
-[CS Faculty Composition and Hiring Trends]([https://jeffhuang.com/computer-science-open-data/](https://jeffhuang.com/computer-science-open-data/#cs-faculty-composition-and-hiring-trends))
+[CS Faculty Composition and Hiring Trends](https://jeffhuang.com/computer-science-open-data/#cs-faculty-composition-and-hiring-trends)
 
 [A very long comment I wrote for a UTM student asking about switching to math spec](https://www.reddit.com/r/UTM/comments/18riu2m/considering_switch_to_math_spec_advice/)
 
