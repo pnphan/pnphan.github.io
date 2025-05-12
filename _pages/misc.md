@@ -3,7 +3,7 @@ permalink: /stuff/misc/
 author_profile: false
 title: "Misc"
 ---
-random stuff i find interesting, many i often go back to
+random stuff i found interesting/useful
 
 [Amputating Life Close to Its Base](https://www.monbiot.com/2015/06/03/3769/)
 
@@ -90,6 +90,38 @@ random stuff i find interesting, many i often go back to
 [Geophysical fluid dynamics: whence, whither and why?](https://royalsocietypublishing.org/doi/10.1098/rspa.2016.0140)
 
 [Landau's Theoretical Minimum, Landau's Seminar, ITEP in the Beginning of the 1950's](https://arxiv.org/abs/hep-ph/0204295)
+
+[CS Paper Checklist](https://github.com/yzhao062/cs-paper-checklist)
+
+[CS Faculty Composition and Hiring Trends]([https://jeffhuang.com/computer-science-open-data/](https://jeffhuang.com/computer-science-open-data/#cs-faculty-composition-and-hiring-trends))
+
+[A very long comment I wrote for a UTM student asking about switching to math spec](https://www.reddit.com/r/UTM/comments/18riu2m/considering_switch_to_math_spec_advice/)
+
+[How to Learn Math and Physics by John Baez](https://math.ucr.edu/home/baez/books.html)
+
+[The accidental HFT firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
+
+[How to build the virtual cell with artificial intelligence: Priorities and opportunities](https://doi.org/10.1016/j.cell.2024.11.015)
+
+[Machine Learning and the Physical Sciences NeurIPS Workshop](https://ml4physicalsciences.github.io/2024/)
+
+[Memories of a Theoretical Physicist](https://doi.org/10.48550/arXiv.1708.09093)
+
+[Thinking and Explaining (a wonderful mathoverflow thread started by William Thurston)](https://mathoverflow.net/questions/38639/thinking-and-explaining)
+
+[The unbearable slowness of being: Why do we live at 10 bits/s?](https://doi.org/10.1016/j.neuron.2024.11.008)
+
+[i sensed anxiety and frustration at NeurIPS’24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
+
+[Why probability probably doesn’t exist (but it is useful to act like it does)](https://doi.org/10.1038/d41586-024-04096-5)
+
+[Shaping the Future of Artificial Intelligence (slides from a Yann LeCun talk)](https://drive.google.com/file/d/1j3A8SYtkJqui7CotCMuvES2LpR17JYrQ/edit)
+
+
+
+
+
+
 
 
 
