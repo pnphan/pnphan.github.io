@@ -117,7 +117,7 @@ random stuff i found interesting/useful
 
 [Shaping the Future of Artificial Intelligence (slides from a Yann LeCun talk)](https://drive.google.com/file/d/1j3A8SYtkJqui7CotCMuvES2LpR17JYrQ/edit)
 
-
+[Combining physics-based and data-driven models: advancing the frontiers of research with Scientific Machine Learning](https://doi.org/10.48550/arXiv.2501.18708)
 
 
 
