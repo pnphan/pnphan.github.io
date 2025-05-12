@@ -3,7 +3,7 @@ permalink: /stuff/
 author_profile: false
 ---
 
-[CS PhD Application Resources](https://pnphan.github.io/stuff/phd/)
+[ [CS PhD Application Resources](https://pnphan.github.io/stuff/phd/) ]: #
 
 [reading list](https://pnphan.github.io/stuff/reading/)
 
