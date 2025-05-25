@@ -119,7 +119,7 @@ random stuff i found interesting/useful
 
 [Combining physics-based and data-driven models: advancing the frontiers of research with Scientific Machine Learning](https://doi.org/10.48550/arXiv.2501.18708)
 
-
+[I got fooled by AI-for-science hype](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 
 
 
