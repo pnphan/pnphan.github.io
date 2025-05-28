@@ -121,7 +121,7 @@ random stuff i found interesting/useful
 
 [I got fooled by AI-for-science hype](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 
-
+[Why an overreliance on AI-driven modelling is bad for science](https://www.nature.com/articles/d41586-025-01067-2)
 
 
 
