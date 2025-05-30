@@ -121,7 +121,27 @@ random stuff i found interesting/useful
 
 [I got fooled by AI-for-science hype](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 
+[Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations](https://doi.org/10.1038/s42256-024-00897-5)
+
 [Why an overreliance on AI-driven modelling is bad for science](https://www.nature.com/articles/d41586-025-01067-2)
 
+[Could a Neuroscientist Understand a Microprocessor?](https://doi.org/10.1371/journal.pcbi.1005268)
 
+[Bayesian integration in sensorimotor learning](https://doi.org/10.1038/nature02169)
+
+[Hedge Funds Paying Up to $1 Million for Weather Modelers](https://archive.is/KzhNB)
+
+[The quiet revolution of numerical weather prediction](https://doi.org/10.1038/nature14956)
+
+[A Post Mortem on the Gino Case](https://www.theorgplumber.com/posts/statement/)
+
+[How artificial intelligence is transforming pathology](https://www.nature.com/articles/d41586-025-01576-0)
+
+[Faisal Mahmood: A.I.'s Transformation of Pathology](https://erictopol.substack.com/p/faisal-mahmood-ais-transformation)
+
+[Patrick Hsu: A Trailblazer in Digital Biology](https://erictopol.substack.com/p/patrick-hsu-a-trailblazer-in-digital)
+
+[Better at everything: how AI could make human beings irrelevant](https://www.theguardian.com/books/2025/may/04/the-big-idea-can-we-stop-ai-making-humans-obsolete)
+
+[Trump Has Cut Science Funding to Its Lowest Level in Decades](https://archive.is/MgLxZ)
 
