@@ -183,5 +183,8 @@ random stuff i found interesting/useful
 
 [A few words on research for graduate students](https://mathweb.ucsd.edu/~fan/teach/gradpol.html)
 
+[The Department of Computer Science: An Interactive Timeline](https://web.cs.toronto.edu/timeline)
+
+[Simar Bajaj](https://www.simarbajaj.com/writing)
 
 
