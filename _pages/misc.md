@@ -145,3 +145,43 @@ random stuff i found interesting/useful
 
 [Trump Has Cut Science Funding to Its Lowest Level in Decades](https://archive.is/MgLxZ)
 
+[PhD Advice by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
+
+[The Nobel Duel](https://www.asimov.press/p/nobel-duel)
+
+[Could pathologists soon be replaced by robots?](https://www.rcpath.org/static/b8f8c8c2-31a5-41aa-a603d7db12c58f72/Paola-Domizio-Undergraduate-Essay-Prize-2020-winner-Harry-Adams.pdf)
+
+["When we started, two-thirds of our first 15 or so employees had PhDs in physics"](https://lsvp.com/stories/generative-sf-how-anthropic-is-building-better-safer-ai-models/)
+
+[The Law(yers) of Mathematics](https://uwaterloo.ca/math-alumni-newsletter/winter-2017/feature/lawyers-mathematics)
+
+[Does one have to be a genius to do maths?](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
+
+[More Is Different](https://doi.org/10.1126/science.177.4047.393)
+
+[On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/)
+
+[One Person's Path to Mathematical Biology](https://www.science.org/content/article/one-persons-path-mathematical-biology)
+
+[The Dangers of Computer-Science Theory](https://doi.org/10.1016/S0049-237X(09)70357-X)
+
+[Romain Brette](http://romainbrette.fr/category/blog/)
+
+[Speed read: Signal to charge](https://www.nobelprize.org/prizes/medicine/1963/speedread/)
+
+[The 1963 Nobel Prize in Physiology or Medicine](https://pubmed.ncbi.nlm.nih.gov/14076170/)
+
+[A brief historical perspective: Hodgkin and Huxley](https://pmc.ncbi.nlm.nih.gov/articles/PMC3424716/)
+
+[Her Key to Modeling Brains: Ignore the Right Details](https://www.quantamagazine.org/mathematician-carina-curto-thinks-like-a-physicist-to-solve-neuroscience-problems-20180619/)
+
+[Quantitative skills in undergraduate neuroscience education in the age of big data](https://doi.org/10.1016/j.neulet.2021.136074)
+
+[Generative Agents: Interactive Simulacra of Human Behavior](https://doi.org/10.48550/arXiv.2304.03442)
+
+[DARPA Mathematical Challenges](https://web.math.utk.edu/~vasili/refs/darpa07.MathChallenges.html)
+
+[A few words on research for graduate students](https://mathweb.ucsd.edu/~fan/teach/gradpol.html)
+
+
+
