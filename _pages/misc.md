@@ -187,4 +187,7 @@ random stuff i found interesting/useful
 
 [Simar Bajaj](https://www.simarbajaj.com/writing)
 
+[How to Build a Vibrant Technology Industry](https://docs.google.com/document/u/0/d/1LlNCY9_4MXhilnbu9MqKhSjHjMGqtDA8zZmSQynVjmY/mobilebasic?pli=1)
+
+
 
