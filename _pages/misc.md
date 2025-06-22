@@ -189,5 +189,5 @@ random stuff i found interesting/useful
 
 [How to Build a Vibrant Technology Industry](https://docs.google.com/document/u/0/d/1LlNCY9_4MXhilnbu9MqKhSjHjMGqtDA8zZmSQynVjmY/mobilebasic?pli=1)
 
-
+[Why am I still a professor?](https://web.archive.org/web/20250618081131/https://www.linkedin.com/posts/dwigdor_why-am-i-still-a-professor-i-was-asked-activity-7264015216307236865-XpwH)
 
