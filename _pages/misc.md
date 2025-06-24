@@ -191,3 +191,15 @@ random stuff i found interesting/useful
 
 [Why am I still a professor?](https://web.archive.org/web/20250618081131/https://www.linkedin.com/posts/dwigdor_why-am-i-still-a-professor-i-was-asked-activity-7264015216307236865-XpwH)
 
+[Arc Institute’s first virtual cell model: State](https://arcinstitute.org/news/virtual-cell-model-state)
+
+[What is automatable and who is replaceable? Thoughts from my morning commute](https://togelius.blogspot.com/2025/06/what-is-automatable-and-who-is_22.html)
+
+[AI: Great Expectations](https://people.csail.mit.edu/brooks/idocs/AI_hype_1988.pdf)
+
+[245A: Problem Solving Strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
+
+[Library for IMC's Mock Trading](https://bitsbytesandbets.substack.com/p/library-for-imcs-mock-trading)
+
+[Adrian Dudek](https://awdudek.github.io/)
+
