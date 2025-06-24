@@ -203,3 +203,16 @@ random stuff i found interesting/useful
 
 [Adrian Dudek](https://awdudek.github.io/)
 
+[The SignalFire State of Talent Report - 2025](https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025)
+
+[Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+
+[Gary Marcus Blog](https://garymarcus.substack.com/)
+
+[Engineering Serendipity](https://engineeringx.substack.com/p/engineering-serendipity)
+
+[Christina Qi](https://www.christinaqi.com/)
+
+[Niko McCarty](https://www.nmccarty.com/)
+
+
