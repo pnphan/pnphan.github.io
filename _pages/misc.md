@@ -215,4 +215,6 @@ random stuff i found interesting/useful
 
 [Niko McCarty](https://www.nmccarty.com/)
 
+[How to write a good CVPR submission](https://web.archive.org/web/20250303071413/https://www.cs.ryerson.ca/~wangcs/resources/How-to-write-a-good-CVPR-submission.pdf)
+
 
