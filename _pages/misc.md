@@ -217,4 +217,32 @@ random stuff i found interesting/useful
 
 [How to write a good CVPR submission](https://web.archive.org/web/20250303071413/https://www.cs.ryerson.ca/~wangcs/resources/How-to-write-a-good-CVPR-submission.pdf)
 
+[PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)
+
+[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+
+[Deep RL Needs Deep Behavior Analysis](https://arxiv.org/abs/2506.06981)
+
+[AI-enabled drug discovery reaches clinical milestone](https://www.nature.com/articles/s41591-025-03832-2)
+
+[In the Footsteps of Archimedes: Mathematicians Working in Industry](https://www.science.org/content/article/footsteps-archimedes-mathematicians-working-industry)
+
+[Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+
+[Andrew Ng YC Startup School Notes](https://www.notion.so/Andrew-Ng-YC-AI-Startup-School-Notes-217027cc881b806280d0f45d003dff4a)
+
+[Spanish mathematician Javier Gómez Serrano and Google DeepMind team up to solve the Navier-Stokes million-dollar problem](https://english.elpais.com/science-tech/2025-06-24/spanish-mathematician-javier-gomez-serrano-and-google-deepmind-team-up-to-solve-the-navier-stokes-million-dollar-problem.html)
+
+[Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler equations using neural networks](https://arxiv.org/abs/2201.06780)
+
+[Skillful joint probabilistic weather forecasting from marginals](https://arxiv.org/abs/2506.10772)
+
+[The future of AI is open-ended](https://richardcsuwandi.github.io/blog/2025/open-endedness/)
+
+[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
+
+[Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+
+
+
 
