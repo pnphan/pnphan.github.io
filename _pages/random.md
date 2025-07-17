@@ -243,6 +243,8 @@ random stuff i found interesting/useful
 
 [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 
+[It's Known as 'The List'](https://archive.is/2m9kU)
+
 
 
 
