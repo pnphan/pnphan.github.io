@@ -9,5 +9,5 @@ author_profile: false
 
 <!-- [reading list](https://pnphan.github.io/stuff/reading/) -->
 
-[misc cool stuff](https://pnphan.github.io/stuff/misc/)
+<!-- [misc cool stuff](https://pnphan.github.io/stuff/misc/) -->
 
