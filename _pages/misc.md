@@ -1,4 +1,4 @@
----
+ ---
 permalink: /stuff/misc/
 author_profile: false
 title: "Misc"
@@ -259,7 +259,9 @@ random stuff i found interesting/useful
 
 [Alexander Bogatskiy](https://github.com/abogatskiy)
 
-[Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)c 
+[Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+
+
 
 
 
