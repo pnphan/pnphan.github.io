@@ -1,4 +1,4 @@
- ---
+---
 permalink: /misc/
 author_profile: false
 title: "Misc"
