@@ -1,5 +1,5 @@
  ---
-permalink: /stuff/misc/
+permalink: /misc/
 author_profile: false
 title: "Misc"
 ---
