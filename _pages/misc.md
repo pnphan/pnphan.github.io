@@ -245,6 +245,23 @@ random stuff i found interesting/useful
 
 [It's Known as 'The List'](https://archive.is/2m9kU)
 
+[Phil Wang's implementations](https://github.com/lucidrains)
+
+[26 March 1991: Neural nets learn to program neural nets with fast weights—the first Transformer variants. 2021-: New stuff!](https://people.idsia.ch//~juergen/fast-weight-programmer-1991-transformer.html)
+
+[Biology Is Not Postage Stamp Collecting](https://www.science.org/doi/10.1126/science.7079730)
+
+[The Consulting Crash Is Coming](https://www.thefp.com/p/the-consulting-crash-is-coming)
+
+[Reflections on OpenAI](https://calv.info/openai-reflections)
+
+[Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
+
+[Alexander Bogatskiy](https://github.com/abogatskiy)
+
+[Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+
+
 
 
 
