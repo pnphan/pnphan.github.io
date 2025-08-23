@@ -261,7 +261,49 @@ random stuff i found interesting/useful
 
 [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 
+[Susan Zhang](https://suchenzang.github.io/)
 
+[What Happens When an Entire Generation of Scientists Changes Its Mind](https://www.scientificamerican.com/article/what-happens-when-an-entire-scientific-field-changes-its-mind/)
+
+[How Good was NASA at FORTRAN in the 1960s?](https://jonathanadams.pro/blog-articles/how-good-was-nasa-at-fortran-in-the-1960s.php)
+
+[I’m an award-winning mathematician. Trump just cut my funding.](https://newsletter.ofthebrave.org/p/im-an-award-winning-mathematician)
+
+[High Stakes for Nations in the Great AI Race](https://www.deeplearning.ai/the-batch/high-stakes-for-nations-in-the-great-ai-race/)
+
+[Research vs. Engineering (Yann LeCun)](https://www.linkedin.com/posts/yann-lecun_there-is-a-difference-between-research-and-activity-7356606929554567169-_iT2)
+
+[the peculiar case of japanese web design](https://sabrinas.space/)
+
+[China to launch new type of visa for young science, technology professionals](https://english.www.gov.cn/policies/latestreleases/202508/14/content_WS689dd0d3c6d0868f4e8f4d1e.html)
+
+[Learn and relearn your field](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
+
+[What the Frog's Eye Tells the Frog's Brain](https://hearingbrain.org/docs/letvin_ieee_1959.pdf)
+
+[Congress wants to cut the smartest investment taxpayers ever made](https://thehill.com/opinion/technology/5439205-congress-wants-to-cut-the-smartest-investment-taxpayers-ever-made/)
+
+[Joal David Hamkins](https://jdh.hamkins.org/)
+
+[How the continuum hypothesis could have been a fundamental axiom](https://arxiv.org/abs/2407.02463)
+
+[The Evolution of Physics](https://en.wikipedia.org/wiki/The_Evolution_of_Physics)
+
+[Ten lessons I wish I had learned before I started teaching differential equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+
+[Applying to Internships as a PhD Student](https://blog.albertkuo.me/post/2021-05-30-applying-to-internships/)
+
+[Florian Shkurti's lab recommended reading list](https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading)
+
+[Eight lessons learned in two years of PhD](https://ai.engin.umich.edu/2023/08/17/eight-lessons-learned-in-two-years-of-ph-d/), by Muhammad Khalifa, PhD student, U. Michigan
+
+[Principles for productive group meetings](https://bounded-regret.ghost.io/principles-for-productive-group-meetings/), by Jacob Steinhardt, Assistant Professor, UC Berkeley
+
+[How I read research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf), by Aaditya Ramdas, Assistant Professor, CMU
+
+[Principles for a PhD program](https://github.com/coallaoh/Principles/tree/main/principles/phd), by Seong Joon Oh, group leader, U. of Tuebingen 
+
+[How to achieve success in a machine learning PhD](https://kidger.site/thoughts/just-know-stuff/), by Patrick Kidger, PhD student, Oxford.
 
 
 
